@@ -455,8 +455,8 @@ PlayerSettings:
   WebGL::template: APPLICATION:Default
   additionalIl2CppArgs::additionalIl2CppArgs: 
   firstStreamedSceneWithResources: 0
-  cloudProjectId: 
-  projectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: e709752a-fee1-438d-9992-115859eac9e3
+  projectId: 520b4-services
+  projectName: 520b4-Services
+  organizationId: rasmus-prod
   cloudEnabled: 0
